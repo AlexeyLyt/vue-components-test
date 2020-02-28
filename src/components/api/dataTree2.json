@@ -1,0 +1,26 @@
+[
+    [
+        { "text": "Who Should Read This Book?" },
+        { "text": "How to Read This Book" },
+        { "text": "What’s in This Book?" },
+        { "text": "Have Fun!" }
+    ],
+    [
+        { "text": "Naming Variables" },
+        { "text": "Creating New Variables Using Math", "state": { "disabled": true } },
+        { "text": "Incrementing and Decrementing" },
+        { "text": "+= (plus-equals) and –= (minus-equals)" }
+    ],
+    [
+        { "text": "Interactive Programming" },
+        { "text": "Find the Buried Treasure!", "state": { "disabled": false, "expanded": true }, "children": [
+            { "text": "#1: A Snowman-Drawing Function", "children": [
+                { "text": "Kiri" }
+            ]},
+            { "text": "#2: Drawing an Array of Points" },
+            { "text": "#3: Painting with Your Mouse" },
+            { "text": "#4: Drawing the Man in Hangman" }
+        ]},
+        { "text": "Object-Oriented Programming" }
+    ]
+]
